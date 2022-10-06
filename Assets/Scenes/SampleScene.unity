@@ -851,7 +851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerSettings:
-    healthBar: {fileID: 0}
+    healthBar: {fileID: 1013416393}
     isMoving: 0
     movementSpeed: 3
     health: 100
